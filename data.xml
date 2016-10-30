@@ -7,74 +7,51 @@
 	<website>http://deathbyaudioarcade.com/</website>
 	<based-in>Brooklyn, NYC</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<press-contact>deathbyaudioarcade@gmail.com</press-contact>
 	<address>
-		<line>Address Line 1</line>
-		<line>Address Line 2</line>
-		<line>Address Line 3</line>
+		<line>67 West St, Suite 506</line>
+		<line>Brooklyn, NY 10024</line>
 	</address>
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
+			<name>Twitter</name>
+			<link>twitter.com/DBAArcade</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<name>Instagram</name>
+			<link>instagram.com/dbaarcade/</link>
 		</social>
 	</socials>
 
 	<description>	
-		The Death By Audio Arcade is a series of local multiplayer arcade cabinets produced by NYC-based legendary music venue, Death By Audio, in Brooklyn, NY.
+		The Death By Audio Arcade is a collective of NYC-based indie game designers and artists who want to mash up the best parts of experimental indie gaming with the joy and thrill of classic arcade spaces.
 	</description>
 		
 	<histories>
 		<history>
 			<header>Early history</header>
-			<text>We were at Death By Audio for a really long time.</text>
+			<text>DBA Arcade began as the brainchild of Mark Kleback, and was born in the classic NYC alt music venue Death By Audio. Mark, interested in custom arcade cabinet design, reached out to local independent artists and game designers, offering to help them build arcade cabinets for their new releases. Construction, testing, and release of these cabinets took place at Death By Audio, linking the legendary alt music spacee to a new generation of independent arcade cabinets. When Vice Magazine bought the Death By Audio space and kicked the prior residents out, the now-large group of engineers, designers, artists, and fabricators decided to keep DBA alive through the collection of the DBA Arcade collective.</text>
 		</history>
 		<history>
 			<header>After that</header>
-			<text>Then Vice kicked us out.</text>
+			<text>So far, the DBA Arcade collective has built 11+ unique, one-of-a-kind cabinets so far, with no intentions of slowing down. The cabinets have been shown  across the country, from indie spaces like Babycastles to festivals like MAGFest to established institutions like the Smithsonian American Museum of Art. DBA Arcade's roster of emerging artists and game designers is growing quickly, and the collective is in the process of obtaining non-profit status, to support this new generation of arcade cabinets by doing more widespread outreach, giving fabrication and design classes, and promoting these cabinets around the globe.
+
+			The current games represented by DBA Arcade cabinets are Field-1, Crystal Brawl, Nest, PARTICLE MACE, Powerboat Italia '88, Fútbol Forever, Nothing Good Can Come Of This, Slam City Oracles, Volleygon, Videofreak, and Drink Rink
+			</text>
+		</history>
+
+		<history>
+
 		</history>
 	</histories>
 		
 	<trailers>
 		<trailer>
-			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
-		</trailer>
-		<trailer>
-			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
+			<name>Death By Audio at The Arcade At FADER Fort</name>
+			<youtube>h92T3GRF9NU</youtube>
 		</trailer>
 	</trailers>
-	
-	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-	</awards>
 	
 	<quotes>
 		<quote>
@@ -83,18 +60,58 @@
 			<website>Hackaday</website>
 			<link>http://hackaday.com/2015/10/06/arcades-dont-call-it-a-comeback/</link>
 		</quote>
+		<quote>
+			<description>Players don’t have to worry about the traditional quarter-sucking of the typical arcade game here. Unlike Turtles in Time or Revolution X, these games aren’t designed with levels to be endured and conquered alone; they’re multiplayer, designed to be played with friends.</description>
+			<name>David Colon</name>
+			<website>Village Voice</website>
+			<link>http://www.villagevoice.com/music/the-resurrection-of-death-by-audio-arcade-8384561</link>
+		</quote>
+		<quote>
+			<description>For two days, creative technologist Mark Kleback shared the magic of the Death By Audio Arcade, a collection of indie multiplayer arcade cabinets that bring back the feeling of being in a coin-operated arcade.</description>
+			<name>The FADER</name>
+			<website>FADER</website>
+			<link>http://www.thefader.com/2016/03/16/death-by-audio-the-arcade-fader-fort</link>
+		</quote>
 	</quotes>
 	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
 																			 	ask (permission on case-per-case basis),
 																			 	non-commercial (no monetization allowed),
-																			 	monetize (full permission) -->	
+																			 	monetize (full permission) -->
+
 	<additionals>
 		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Field-1</title>
+			<link>http://field-1.tumblr.com/</link>
+		</additional>
+		<additional>
+			<title>Crystal Brawl</title>
+			<link>http://www.studio-mercato.com/crystal-brawl/</link>
+		</additional>
+		<additional>
+			<title>Nest</title>
+			<link>http://www.ohmy.me/nest/</link>
+		</additional>
+		<additional>
+			<title>PARTICLE MACE</title>
+			<link>http://andymakes.com/particlemace/</link>
+		</additional>
+		<additional>
+			<title>Powerboat Italia '88</title>
+			<link>http://powerboat.robysoft.net/</link>
+		</additional>
+		<additional>
+			<title>Fútbol Forever</title>
+			<link>http://playfutbolforever.com/</link>
+		</additional>
+		<additional>
+			<title>Nothing Good Can Come Of This</title>
+			<link>http://www.cartwheelgames.com/nothing-good-can-come-of-this/</link>
+		</additional>
+		<additional>
+			<title>Slam City Oracles</title>
+			<link>http://slamcityoracles.com</link>
 		</additional>
 	</additionals>
 	
@@ -102,30 +119,25 @@
 		<credit>
 			<person>Mark Kleback</person>
 			<website>http://www.kleebtronics.com</website>
-			<role>Genius/Master Builder</role>
-		</credit>
-		<credit>
-			<person>Everyone Else</person>
-			<website>www.google.com</website>
-			<role>Game Designers, Board Members, Individual Roles</role>
+			<role>Fabricator</role>
 		</credit>
 	</credits>
 	
 	<contacts>
 		<contact>
 			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
+			<mail>deathbyaudioarcade@gmail.com</mail>
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<link>http://twitter.com/DBAArcade</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>http://facebook.com/MyCompanyName</link>
+			<link>https://www.facebook.com/dbaarcade</link>
 		</contact>
 		<contact>
-			<name>Web</name>
+			<name>Website</name>
 			<link>deathbyaudioarcade.com</link>
 		</contact>
 	</contacts>
